@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Time Theme</string>
+    <string name="primary_color">Primary_color</string>
+    <string name="button">button</string>
+    <string name="secondary_color">secondary_color</string>
+    <string name="email_icon">email_icon</string>
+
+</resources>
